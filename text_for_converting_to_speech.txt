@@ -1,0 +1,4 @@
+What is your previous job?
+What is test automation?
+Tell me about white box testing and black box testing
+what is your name
